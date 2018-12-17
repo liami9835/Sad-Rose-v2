@@ -1,0 +1,13 @@
+{
+  "prefix": "!!",
+  "admins": ["0"],
+  "version": "1.2.0",
+  "banreason": "",
+  "kickreason": "",
+  "Developers": ["Liam"],
+  "premiumState": "false",
+  "donotAnnounce": ["0"],
+  "updates": ["Autoroles!"],
+  "userblacklist": [""],
+  "owners": ["409150982430392340"]
+}
